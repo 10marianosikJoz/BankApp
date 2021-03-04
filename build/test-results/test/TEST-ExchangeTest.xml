@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ExchangeTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2020-06-09T12:06:04" hostname="DESKTOP-PI7U7J0" time="0.043">
+  <properties/>
+  <testcase name="exchange_should_return_exchange_value_when_multiply_dolar_to_euro_value" classname="ExchangeTest" time="0.042"/>
+  <testcase name="exchange_should_return_exchange_value_when_we_subtract_the_amount_from_dolar_account" classname="ExchangeTest" time="0.0"/>
+  <testcase name="subtract_should_return_subtract_value_when_we_subtract_the_amount_from_euro_account" classname="ExchangeTest" time="0.0"/>
+  <testcase name="exchange_should_return_exchange_value_when_multiply_euro_to_dolar_value" classname="ExchangeTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
